@@ -11,7 +11,7 @@ public class Assignment {
 	 * Given a 2D array, traverses the given array in a helical path then prints the
 	 * numbers along this path.
 	 * 
-	 * @param nums 2D array of integer numbers
+	 * @param nums 2D array of integer numbers 
 	 */
 	public static String helicalPrintArray(int[][] nums) {
 
